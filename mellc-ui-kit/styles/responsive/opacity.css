@@ -1,0 +1,109 @@
+@media (min-width: 640px) {
+  /* Opacity Utility Classes */
+  .sm\:opacity-0 {
+    opacity: var(--opacity-0);
+  }
+  .sm\:opacity-25 {
+    opacity: var(--opacity-25);
+  }
+  .sm\:opacity-50 {
+    opacity: var(--opacity-50);
+  }
+  .sm\:opacity-75 {
+    opacity: var(--opacity-75);
+  }
+  .sm\:opacity-80 {
+    opacity: var(--opacity-80);
+  }
+  .sm\:opacity-100 {
+    opacity: var(--opacity-100);
+  }
+}
+
+@media (min-width: 768px) {
+  /* Opacity Utility Classes */
+  .md\:opacity-0 {
+    opacity: var(--opacity-0);
+  }
+  .md\:opacity-25 {
+    opacity: var(--opacity-25);
+  }
+  .md\:opacity-50 {
+    opacity: var(--opacity-50);
+  }
+  .md\:opacity-75 {
+    opacity: var(--opacity-75);
+  }
+  .md\:opacity-80 {
+    opacity: var(--opacity-80);
+  }
+  .md\:opacity-100 {
+    opacity: var(--opacity-100);
+  }
+}
+
+@media (min-width: 1024px) {
+  /* Opacity Utility Classes */
+  .lg\:opacity-0 {
+    opacity: var(--opacity-0);
+  }
+  .lg\:opacity-25 {
+    opacity: var(--opacity-25);
+  }
+  .lg\:opacity-50 {
+    opacity: var(--opacity-50);
+  }
+  .lg\:opacity-75 {
+    opacity: var(--opacity-75);
+  }
+  .lg\:opacity-80 {
+    opacity: var(--opacity-80);
+  }
+  .lg\:opacity-100 {
+    opacity: var(--opacity-100);
+  }
+}
+
+@media (min-width: 1280px) {
+  /* Opacity Utility Classes */
+  .xl\:opacity-0 {
+    opacity: var(--opacity-0);
+  }
+  .xl\:opacity-25 {
+    opacity: var(--opacity-25);
+  }
+  .xl\:opacity-50 {
+    opacity: var(--opacity-50);
+  }
+  .xl\:opacity-75 {
+    opacity: var(--opacity-75);
+  }
+  .xl\:opacity-80 {
+    opacity: var(--opacity-80);
+  }
+  .xl\:opacity-100 {
+    opacity: var(--opacity-100);
+  }
+}
+
+@media (min-width: 1536px) {
+  /* Opacity Utility Classes */
+  .2xl\:opacity-0 {
+    opacity: var(--opacity-0);
+  }
+  .2xl\:opacity-25 {
+    opacity: var(--opacity-25);
+  }
+  .2xl\:opacity-50 {
+    opacity: var(--opacity-50);
+  }
+  .2xl\:opacity-75 {
+    opacity: var(--opacity-75);
+  }
+  .2xl\:opacity-80 {
+    opacity: var(--opacity-80);
+  }
+  .2xl\:opacity-100 {
+    opacity: var(--opacity-100);
+  }
+}

@@ -1,0 +1,17 @@
+export const borderWidthClass = {
+  thin: 'border-thin',
+  base: 'border-base',
+  thick: 'border-thick',
+  tThin: 'border-t-thin',
+  rThin: 'border-r-thin',
+  bThin: 'border-b-thin',
+  lThin: 'border-l-thin',
+  tBase: 'border-t-base',
+  rBase: 'border-r-base',
+  bBase: 'border-b-base',
+  lBase: 'border-l-base',
+  tThick: 'border-t-thick',
+  rThick: 'border-r-thick',
+  bThick: 'border-b-thick',
+  lThick: 'border-l-thick',
+};

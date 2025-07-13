@@ -1,0 +1,532 @@
+/* 🔴 Red */
+.hover\:bg-red-100:hover {
+  background-color: var(--red-100);
+}
+.hover\:bg-red-300:hover {
+  background-color: var(--red-300);
+}
+.hover\:bg-red-500:hover {
+  background-color: var(--red-500);
+}
+.hover\:bg-red-700:hover {
+  background-color: var(--red-700);
+}
+.hover\:bg-red-900:hover {
+  background-color: var(--red-900);
+}
+
+.hover\:text-red-100:hover {
+  color: var(--red-100);
+}
+.hover\:text-red-300:hover {
+  color: var(--red-300);
+}
+.hover\:text-red-500:hover {
+  color: var(--red-500);
+}
+.hover\:text-red-700:hover {
+  color: var(--red-700);
+}
+.hover\:text-red-900:hover {
+  color: var(--red-900);
+}
+
+/* 🟠 Orange */
+.hover\:bg-orange-100:hover {
+  background-color: var(--orange-100);
+}
+.hover\:bg-orange-300:hover {
+  background-color: var(--orange-300);
+}
+.hover\:bg-orange-500:hover {
+  background-color: var(--orange-500);
+}
+.hover\:bg-orange-700:hover {
+  background-color: var(--orange-700);
+}
+.hover\:bg-orange-900:hover {
+  background-color: var(--orange-900);
+}
+
+.hover\:text-orange-100:hover {
+  color: var(--orange-100);
+}
+.hover\:text-orange-300:hover {
+  color: var(--orange-300);
+}
+.hover\:text-orange-500:hover {
+  color: var(--orange-500);
+}
+.hover\:text-orange-700:hover {
+  color: var(--orange-700);
+}
+.hover\:text-orange-900:hover {
+  color: var(--orange-900);
+}
+
+/* 🟡 Yellow */
+.hover\:bg-yellow-100:hover {
+  background-color: var(--yellow-100);
+}
+.hover\:bg-yellow-300:hover {
+  background-color: var(--yellow-300);
+}
+.hover\:bg-yellow-500:hover {
+  background-color: var(--yellow-500);
+}
+.hover\:bg-yellow-700:hover {
+  background-color: var(--yellow-700);
+}
+.hover\:bg-yellow-900:hover {
+  background-color: var(--yellow-900);
+}
+
+.hover\:text-yellow-100:hover {
+  color: var(--yellow-100);
+}
+.hover\:text-yellow-300:hover {
+  color: var(--yellow-300);
+}
+.hover\:text-yellow-500:hover {
+  color: var(--yellow-500);
+}
+.hover\:text-yellow-700:hover {
+  color: var(--yellow-700);
+}
+.hover\:text-yellow-900:hover {
+  color: var(--yellow-900);
+}
+
+/* 🟢 Green */
+.hover\:bg-green-100:hover {
+  background-color: var(--green-100);
+}
+.hover\:bg-green-300:hover {
+  background-color: var(--green-300);
+}
+.hover\:bg-green-500:hover {
+  background-color: var(--green-500);
+}
+.hover\:bg-green-700:hover {
+  background-color: var(--green-700);
+}
+.hover\:bg-green-900:hover {
+  background-color: var(--green-900);
+}
+
+.hover\:text-green-100:hover {
+  color: var(--green-100);
+}
+.hover\:text-green-300:hover {
+  color: var(--green-300);
+}
+.hover\:text-green-500:hover {
+  color: var(--green-500);
+}
+.hover\:text-green-700:hover {
+  color: var(--green-700);
+}
+.hover\:text-green-900:hover {
+  color: var(--green-900);
+}
+
+/* 🟩 Teal */
+.hover\:bg-teal-100:hover {
+  background-color: var(--teal-100);
+}
+.hover\:bg-teal-300:hover {
+  background-color: var(--teal-300);
+}
+.hover\:bg-teal-500:hover {
+  background-color: var(--teal-500);
+}
+.hover\:bg-teal-700:hover {
+  background-color: var(--teal-700);
+}
+.hover\:bg-teal-900:hover {
+  background-color: var(--teal-900);
+}
+
+.hover\:text-teal-100:hover {
+  color: var(--teal-100);
+}
+.hover\:text-teal-300:hover {
+  color: var(--teal-300);
+}
+.hover\:text-teal-500:hover {
+  color: var(--teal-500);
+}
+.hover\:text-teal-700:hover {
+  color: var(--teal-700);
+}
+.hover\:text-teal-900:hover {
+  color: var(--teal-900);
+}
+
+/* 🔵 Blue */
+.hover\:bg-blue-100:hover {
+  background-color: var(--blue-100);
+}
+.hover\:bg-blue-300:hover {
+  background-color: var(--blue-300);
+}
+.hover\:bg-blue-500:hover {
+  background-color: var(--blue-500);
+}
+.hover\:bg-blue-700:hover {
+  background-color: var(--blue-700);
+}
+.hover\:bg-blue-900:hover {
+  background-color: var(--blue-900);
+}
+
+.hover\:text-blue-100:hover {
+  color: var(--blue-100);
+}
+.hover\:text-blue-300:hover {
+  color: var(--blue-300);
+}
+.hover\:text-blue-500:hover {
+  color: var(--blue-500);
+}
+.hover\:text-blue-700:hover {
+  color: var(--blue-700);
+}
+.hover\:text-blue-900:hover {
+  color: var(--blue-900);
+}
+
+/* 🔶 Indigo */
+.hover\:bg-indigo-100:hover {
+  background-color: var(--indigo-100);
+}
+.hover\:bg-indigo-300:hover {
+  background-color: var(--indigo-300);
+}
+.hover\:bg-indigo-500:hover {
+  background-color: var(--indigo-500);
+}
+.hover\:bg-indigo-700:hover {
+  background-color: var(--indigo-700);
+}
+.hover\:bg-indigo-900:hover {
+  background-color: var(--indigo-900);
+}
+
+.hover\:text-indigo-100:hover {
+  color: var(--indigo-100);
+}
+.hover\:text-indigo-300:hover {
+  color: var(--indigo-300);
+}
+.hover\:text-indigo-500:hover {
+  color: var(--indigo-500);
+}
+.hover\:text-indigo-700:hover {
+  color: var(--indigo-700);
+}
+.hover\:text-indigo-900:hover {
+  color: var(--indigo-900);
+}
+
+/* 🔷 Purple */
+.hover\:bg-purple-100:hover {
+  background-color: var(--purple-100);
+}
+.hover\:bg-purple-300:hover {
+  background-color: var(--purple-300);
+}
+.hover\:bg-purple-500:hover {
+  background-color: var(--purple-500);
+}
+.hover\:bg-purple-700:hover {
+  background-color: var(--purple-700);
+}
+.hover\:bg-purple-900:hover {
+  background-color: var(--purple-900);
+}
+
+.hover\:text-purple-100:hover {
+  color: var(--purple-100);
+}
+.hover\:text-purple-300:hover {
+  color: var(--purple-300);
+}
+.hover\:text-purple-500:hover {
+  color: var(--purple-500);
+}
+.hover\:text-purple-700:hover {
+  color: var(--purple-700);
+}
+.hover\:text-purple-900:hover {
+  color: var(--purple-900);
+}
+
+/* ⚫ Gray */
+.hover\:bg-gray-100:hover {
+  background-color: var(--gray-100);
+}
+.hover\:bg-gray-300:hover {
+  background-color: var(--gray-300);
+}
+.hover\:bg-gray-500:hover {
+  background-color: var(--gray-500);
+}
+.hover\:bg-gray-700:hover {
+  background-color: var(--gray-700);
+}
+.hover\:bg-gray-900:hover {
+  background-color: var(--gray-900);
+}
+
+.hover\:text-gray-100:hover {
+  color: var(--gray-100);
+}
+.hover\:text-gray-300:hover {
+  color: var(--gray-300);
+}
+.hover\:text-gray-500:hover {
+  color: var(--gray-500);
+}
+.hover\:text-gray-700:hover {
+  color: var(--gray-700);
+}
+.hover\:text-gray-900:hover {
+  color: var(--gray-900);
+}
+
+/* rose */
+.hover\:bg-rose-100:hover {
+  background-color: var(--rose-100);
+}
+.hover\:bg-rose-300:hover {
+  background-color: var(--rose-300);
+}
+.hover\:bg-rose-500:hover {
+  background-color: var(--rose-500);
+}
+.hover\:bg-rose-700:hover {
+  background-color: var(--rose-700);
+}
+.hover\:bg-rose-900:hover {
+  background-color: var(--rose-900);
+}
+
+.hover\:text-rose-100:hover {
+  color: var(--rose-100);
+}
+.hover\:text-rose-300:hover {
+  color: var(--rose-300);
+}
+.hover\:text-rose-500:hover {
+  color: var(--rose-500);
+}
+.hover\:text-rose-700:hover {
+  color: var(--rose-700);
+}
+.hover\:text-rose-900:hover {
+  color: var(--rose-900);
+}
+
+/* sky */
+.hover\:bg-sky-100:hover {
+  background-color: var(--sky-100);
+}
+.hover\:bg-sky-300:hover {
+  background-color: var(--sky-300);
+}
+.hover\:bg-sky-500:hover {
+  background-color: var(--sky-500);
+}
+.hover\:bg-sky-700:hover {
+  background-color: var(--sky-700);
+}
+.hover\:bg-sky-900:hover {
+  background-color: var(--sky-900);
+}
+
+.hover\:text-sky-100:hover {
+  color: var(--sky-100);
+}
+.hover\:text-sky-300:hover {
+  color: var(--sky-300);
+}
+.hover\:text-sky-500:hover {
+  color: var(--sky-500);
+}
+.hover\:text-sky-700:hover {
+  color: var(--sky-700);
+}
+.hover\:text-sky-900:hover {
+  color: var(--sky-900);
+}
+
+/* amber */
+.hover\:bg-amber-100:hover {
+  background-color: var(--amber-100);
+}
+.hover\:bg-amber-300:hover {
+  background-color: var(--amber-300);
+}
+.hover\:bg-amber-500:hover {
+  background-color: var(--amber-500);
+}
+.hover\:bg-amber-700:hover {
+  background-color: var(--amber-700);
+}
+.hover\:bg-amber-900:hover {
+  background-color: var(--amber-900);
+}
+
+.hover\:text-amber-100:hover {
+  color: var(--amber-100);
+}
+.hover\:text-amber-300:hover {
+  color: var(--amber-300);
+}
+.hover\:text-amber-500:hover {
+  color: var(--amber-500);
+}
+.hover\:text-amber-700:hover {
+  color: var(--amber-700);
+}
+.hover\:text-amber-900:hover {
+  color: var(--amber-900);
+}
+
+/* slate */
+.hover\:bg-slate-100:hover {
+  background-color: var(--slate-100);
+}
+.hover\:bg-slate-300:hover {
+  background-color: var(--slate-300);
+}
+.hover\:bg-slate-500:hover {
+  background-color: var(--slate-500);
+}
+.hover\:bg-slate-700:hover {
+  background-color: var(--slate-700);
+}
+.hover\:bg-slate-900:hover {
+  background-color: var(--slate-900);
+}
+
+.hover\:text-slate-100:hover {
+  color: var(--slate-100);
+}
+.hover\:text-slate-300:hover {
+  color: var(--slate-300);
+}
+.hover\:text-slate-500:hover {
+  color: var(--slate-500);
+}
+.hover\:text-slate-700:hover {
+  color: var(--slate-700);
+}
+.hover\:text-slate-900:hover {
+  color: var(--slate-900);
+}
+
+/* emerald */
+.hover\:bg-emerald-100:hover {
+  background-color: var(--emerald-100);
+}
+.hover\:bg-emerald-300:hover {
+  background-color: var(--emerald-300);
+}
+.hover\:bg-emerald-500:hover {
+  background-color: var(--emerald-500);
+}
+.hover\:bg-emerald-700:hover {
+  background-color: var(--emerald-700);
+}
+.hover\:bg-emerald-900:hover {
+  background-color: var(--emerald-900);
+}
+
+.hover\:text-emerald-100:hover {
+  color: var(--emerald-100);
+}
+.hover\:text-emerald-300:hover {
+  color: var(--emerald-300);
+}
+.hover\:text-emerald-500:hover {
+  color: var(--emerald-500);
+}
+.hover\:text-emerald-700:hover {
+  color: var(--emerald-700);
+}
+.hover\:text-emerald-900:hover {
+  color: var(--emerald-900);
+}
+
+/* ⚫ Black */
+.hover\:bg-black:hover {
+  background-color: var(--black);
+}
+.hover\:text-black:hover {
+  color: var(--black);
+}
+
+/* ⚪ White */
+.hover\:bg-white:hover {
+  background-color: var(--white);
+}
+.hover\:text-white:hover {
+  color: var(--white);
+}
+
+/* \uD83D\uDD76 Hover Shadows */
+.hover\:shadow-none:hover {
+  box-shadow: var(--shadow-none);
+}
+.hover\:shadow-xs:hover {
+  box-shadow: var(--shadow-xs);
+}
+.hover\:shadow-sm:hover {
+  box-shadow: var(--shadow-sm);
+}
+.hover\:shadow-md:hover {
+  box-shadow: var(--shadow-md);
+}
+.hover\:shadow-lg:hover {
+  box-shadow: var(--shadow-lg);
+}
+.hover\:shadow-xl:hover {
+  box-shadow: var(--shadow-xl);
+}
+.hover\:shadow-2xl:hover {
+  box-shadow: var(--shadow-2xl);
+}
+.hover\:shadow-inner:hover {
+  box-shadow: var(--shadow-inner);
+}
+.hover\:shadow:hover {
+  box-shadow: var(--shadow-md);
+}
+
+/* General Hover Utilities */
+.hover\:underline:hover {
+  text-decoration: underline;
+}
+.hover\:font-bold:hover {
+  font-weight: var(--font-bold);
+}
+.hover\:scale-105:hover {
+  transform: scale(1.05);
+}
+.hover\:scale-110:hover {
+  transform: scale(1.1);
+}
+.hover\:opacity-80:hover {
+  opacity: var(--opacity-80);
+}
+.hover\:ring-2:hover {
+  outline: 2px solid currentColor;
+}
+.hover\:ring-offset-2:hover {
+  outline-offset: 2px;
+}
+.hover\:cursor-pointer:hover {
+  cursor: pointer;
+}

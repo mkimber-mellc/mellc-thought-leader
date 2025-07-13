@@ -1,0 +1,19 @@
+@media (min-width: 640px) {
+  @import './text.css';
+}
+
+@media (min-width: 768px) {
+  @import './text.css';
+}
+
+@media (min-width: 1024px) {
+  @import './text.css';
+}
+
+@media (min-width: 1280px) {
+  @import './text.css';
+}
+
+@media (min-width: 1536px) {
+  @import './text.css';
+}

@@ -1,4 +1,4 @@
-import { CaptionText, FlexContainer } from 'mellc-ui-kit';
+import { CaptionText, FlexContainer } from '@/mellc-ui-kit';
 
 export default function PullQuote() {
   return (

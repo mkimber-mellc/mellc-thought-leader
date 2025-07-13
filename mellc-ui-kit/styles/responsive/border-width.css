@@ -1,0 +1,279 @@
+@media (min-width: 640px) {
+  /* MELLC UI – Border Width Utilities */
+
+  .sm\:border-thin {
+    border-width: var(--border-thin); /* 1px */
+  }
+
+  .sm\:border-base {
+    border-width: var(--border-base); /* 2px */
+  }
+
+  .sm\:border-thick {
+    border-width: var(--border-thick); /* 4px */
+  }
+
+  /* Optional: individual sides */
+  .sm\:border-t-thin {
+    border-top-width: var(--border-thin);
+  }
+  .sm\:border-r-thin {
+    border-right-width: var(--border-thin);
+  }
+  .sm\:border-b-thin {
+    border-bottom-width: var(--border-thin);
+  }
+  .sm\:border-l-thin {
+    border-left-width: var(--border-thin);
+  }
+
+  .sm\:border-t-base {
+    border-top-width: var(--border-base);
+  }
+  .sm\:border-r-base {
+    border-right-width: var(--border-base);
+  }
+  .sm\:border-b-base {
+    border-bottom-width: var(--border-base);
+  }
+  .sm\:border-l-base {
+    border-left-width: var(--border-base);
+  }
+
+  .sm\:border-t-thick {
+    border-top-width: var(--border-thick);
+  }
+  .sm\:border-r-thick {
+    border-right-width: var(--border-thick);
+  }
+  .sm\:border-b-thick {
+    border-bottom-width: var(--border-thick);
+  }
+  .sm\:border-l-thick {
+    border-left-width: var(--border-thick);
+  }
+}
+
+@media (min-width: 768px) {
+  /* MELLC UI – Border Width Utilities */
+
+  .md\:border-thin {
+    border-width: var(--border-thin); /* 1px */
+  }
+
+  .md\:border-base {
+    border-width: var(--border-base); /* 2px */
+  }
+
+  .md\:border-thick {
+    border-width: var(--border-thick); /* 4px */
+  }
+
+  /* Optional: individual sides */
+  .md\:border-t-thin {
+    border-top-width: var(--border-thin);
+  }
+  .md\:border-r-thin {
+    border-right-width: var(--border-thin);
+  }
+  .md\:border-b-thin {
+    border-bottom-width: var(--border-thin);
+  }
+  .md\:border-l-thin {
+    border-left-width: var(--border-thin);
+  }
+
+  .md\:border-t-base {
+    border-top-width: var(--border-base);
+  }
+  .md\:border-r-base {
+    border-right-width: var(--border-base);
+  }
+  .md\:border-b-base {
+    border-bottom-width: var(--border-base);
+  }
+  .md\:border-l-base {
+    border-left-width: var(--border-base);
+  }
+
+  .md\:border-t-thick {
+    border-top-width: var(--border-thick);
+  }
+  .md\:border-r-thick {
+    border-right-width: var(--border-thick);
+  }
+  .md\:border-b-thick {
+    border-bottom-width: var(--border-thick);
+  }
+  .md\:border-l-thick {
+    border-left-width: var(--border-thick);
+  }
+}
+
+@media (min-width: 1024px) {
+  /* MELLC UI – Border Width Utilities */
+
+  .lg\:border-thin {
+    border-width: var(--border-thin); /* 1px */
+  }
+
+  .lg\:border-base {
+    border-width: var(--border-base); /* 2px */
+  }
+
+  .lg\:border-thick {
+    border-width: var(--border-thick); /* 4px */
+  }
+
+  /* Optional: individual sides */
+  .lg\:border-t-thin {
+    border-top-width: var(--border-thin);
+  }
+  .lg\:border-r-thin {
+    border-right-width: var(--border-thin);
+  }
+  .lg\:border-b-thin {
+    border-bottom-width: var(--border-thin);
+  }
+  .lg\:border-l-thin {
+    border-left-width: var(--border-thin);
+  }
+
+  .lg\:border-t-base {
+    border-top-width: var(--border-base);
+  }
+  .lg\:border-r-base {
+    border-right-width: var(--border-base);
+  }
+  .lg\:border-b-base {
+    border-bottom-width: var(--border-base);
+  }
+  .lg\:border-l-base {
+    border-left-width: var(--border-base);
+  }
+
+  .lg\:border-t-thick {
+    border-top-width: var(--border-thick);
+  }
+  .lg\:border-r-thick {
+    border-right-width: var(--border-thick);
+  }
+  .lg\:border-b-thick {
+    border-bottom-width: var(--border-thick);
+  }
+  .lg\:border-l-thick {
+    border-left-width: var(--border-thick);
+  }
+}
+
+@media (min-width: 1280px) {
+  /* MELLC UI – Border Width Utilities */
+
+  .xl\:border-thin {
+    border-width: var(--border-thin); /* 1px */
+  }
+
+  .xl\:border-base {
+    border-width: var(--border-base); /* 2px */
+  }
+
+  .xl\:border-thick {
+    border-width: var(--border-thick); /* 4px */
+  }
+
+  /* Optional: individual sides */
+  .xl\:border-t-thin {
+    border-top-width: var(--border-thin);
+  }
+  .xl\:border-r-thin {
+    border-right-width: var(--border-thin);
+  }
+  .xl\:border-b-thin {
+    border-bottom-width: var(--border-thin);
+  }
+  .xl\:border-l-thin {
+    border-left-width: var(--border-thin);
+  }
+
+  .xl\:border-t-base {
+    border-top-width: var(--border-base);
+  }
+  .xl\:border-r-base {
+    border-right-width: var(--border-base);
+  }
+  .xl\:border-b-base {
+    border-bottom-width: var(--border-base);
+  }
+  .xl\:border-l-base {
+    border-left-width: var(--border-base);
+  }
+
+  .xl\:border-t-thick {
+    border-top-width: var(--border-thick);
+  }
+  .xl\:border-r-thick {
+    border-right-width: var(--border-thick);
+  }
+  .xl\:border-b-thick {
+    border-bottom-width: var(--border-thick);
+  }
+  .xl\:border-l-thick {
+    border-left-width: var(--border-thick);
+  }
+}
+
+@media (min-width: 1536px) {
+  /* MELLC UI – Border Width Utilities */
+
+  .2xl\:border-thin {
+    border-width: var(--border-thin); /* 1px */
+  }
+
+  .2xl\:border-base {
+    border-width: var(--border-base); /* 2px */
+  }
+
+  .2xl\:border-thick {
+    border-width: var(--border-thick); /* 4px */
+  }
+
+  /* Optional: individual sides */
+  .2xl\:border-t-thin {
+    border-top-width: var(--border-thin);
+  }
+  .2xl\:border-r-thin {
+    border-right-width: var(--border-thin);
+  }
+  .2xl\:border-b-thin {
+    border-bottom-width: var(--border-thin);
+  }
+  .2xl\:border-l-thin {
+    border-left-width: var(--border-thin);
+  }
+
+  .2xl\:border-t-base {
+    border-top-width: var(--border-base);
+  }
+  .2xl\:border-r-base {
+    border-right-width: var(--border-base);
+  }
+  .2xl\:border-b-base {
+    border-bottom-width: var(--border-base);
+  }
+  .2xl\:border-l-base {
+    border-left-width: var(--border-base);
+  }
+
+  .2xl\:border-t-thick {
+    border-top-width: var(--border-thick);
+  }
+  .2xl\:border-r-thick {
+    border-right-width: var(--border-thick);
+  }
+  .2xl\:border-b-thick {
+    border-bottom-width: var(--border-thick);
+  }
+  .2xl\:border-l-thick {
+    border-left-width: var(--border-thick);
+  }
+}

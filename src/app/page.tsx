@@ -1,4 +1,4 @@
-import { MainContainer } from 'mellc-ui-kit';
+import { MainContainer } from '@/mellc-ui-kit';
 import NavBar from '@/components/landing-page/NavBar';
 import PullQuote from '@/components/landing-page/PullQuote';
 import Preview from '@/components/landing-page/Preview';

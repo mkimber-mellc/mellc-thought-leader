@@ -1,0 +1,33 @@
+:root {
+  --z-base: 1;
+  --z-dropdown: 10;
+  --z-sticky: 100;
+  --z-modal: 1000;
+  --z-toast: 9999;
+}
+
+/* MELLC UI – Z-Index Layers */
+
+.z-base {
+  z-index: 0;
+}
+
+.z-dropdown {
+  z-index: 10;
+}
+
+.z-sticky {
+  z-index: 20;
+}
+
+.z-modal {
+  z-index: 30;
+}
+
+.z-popover {
+  z-index: 40;
+}
+
+.z-tooltip {
+  z-index: 50;
+}

@@ -1,4 +1,4 @@
-import { FlexContainer, Subtitle, BodyText, Button } from 'mellc-ui-kit';
+import { FlexContainer, Subtitle, BodyText, Button } from '@/mellc-ui-kit';
 import { SignUpButton } from '@clerk/nextjs';
 
 export default function CTA() {

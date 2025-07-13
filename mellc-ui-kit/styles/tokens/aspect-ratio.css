@@ -1,0 +1,5 @@
+:root {
+  --aspect-auto: auto;
+  --aspect-square: 1/1;
+  --aspect-video: 16/9;
+}

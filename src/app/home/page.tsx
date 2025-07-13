@@ -1,4 +1,4 @@
-import { MainContainer, FlexContainer, GridContainer, Subtitle, Center, Title } from 'mellc-ui-kit';
+import { MainContainer, FlexContainer, Subtitle, Center, Title } from '@/mellc-ui-kit';
 import FeaturedArticle from '@/components/articles/FeaturedArticle';
 import HomeHero from '@/components/home-page/HomeHero';
 import ArticlePreview from '@/components/articles/ArticlePreview';

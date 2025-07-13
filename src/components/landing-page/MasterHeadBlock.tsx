@@ -1,4 +1,4 @@
-import { Title, BodyText, FlexContainer, Card, CaptionText } from 'mellc-ui-kit';
+import { Title, BodyText, FlexContainer, Card, CaptionText } from '@/mellc-ui-kit';
 import { customTheme } from '@/styles/project-theme';
 
 export default function MasterHeadBlock() {

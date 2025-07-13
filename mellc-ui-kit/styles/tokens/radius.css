@@ -1,0 +1,51 @@
+:root {
+  --radius-none: 0px;
+  --radius-xs: 2px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 20px;
+  --radius-2xl: 32px;
+  --radius-full: 9999px;
+}
+
+/* MELLC UI – Border Radius Utilities */
+
+.radius-none {
+  border-radius: var(--radius-none);
+}
+.radius-xs {
+  border-radius: var(--radius-xs);
+}
+.radius-sm {
+  border-radius: var(--radius-sm);
+}
+.radius-md {
+  border-radius: var(--radius-md);
+}
+.radius-lg {
+  border-radius: var(--radius-lg);
+}
+.radius-xl {
+  border-radius: var(--radius-xl);
+}
+.radius-2xl {
+  border-radius: var(--radius-2xl);
+}
+.radius-full {
+  border-radius: var(--radius-full);
+}
+
+/* Optional: per-corner control */
+.radius-tl-md {
+  border-top-left-radius: var(--radius-md);
+}
+.radius-tr-md {
+  border-top-right-radius: var(--radius-md);
+}
+.radius-bl-md {
+  border-bottom-left-radius: var(--radius-md);
+}
+.radius-br-md {
+  border-bottom-right-radius: var(--radius-md);
+}

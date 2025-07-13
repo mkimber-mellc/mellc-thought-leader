@@ -1,0 +1,9 @@
+.aspect-auto {
+  aspect-ratio: var(--aspect-auto);
+}
+.aspect-square {
+  aspect-ratio: var(--aspect-square);
+}
+.aspect-video {
+  aspect-ratio: var(--aspect-video);
+}

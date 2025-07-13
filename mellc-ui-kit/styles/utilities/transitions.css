@@ -1,0 +1,10 @@
+/* Transition Duration Utility Classes */
+.transition-fast {
+  transition-duration: var(--duration-fast);
+}
+.transition-normal {
+  transition-duration: var(--duration-normal);
+}
+.transition-slow {
+  transition-duration: var(--duration-slow);
+}

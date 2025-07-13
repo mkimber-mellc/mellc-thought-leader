@@ -1,4 +1,4 @@
-import { Subtitle, BodyText, CaptionText, List, BlockContainer } from 'mellc-ui-kit';
+import { Subtitle, BodyText, CaptionText, List, BlockContainer } from '@/mellc-ui-kit';
 
 type ArticleBlock =
   | { type: 'heading'; level: 2 | 3; text: string }

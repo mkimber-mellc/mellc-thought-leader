@@ -1,0 +1,154 @@
+@media (min-width: 640px) {
+  .sm\:static {
+    position: static;
+  }
+  .sm\:relative {
+    position: relative;
+  }
+  .sm\:absolute {
+    position: absolute;
+  }
+  .sm\:fixed {
+    position: fixed;
+  }
+  .sm\:sticky {
+    position: sticky;
+  }
+
+  .sm\:top-0 {
+    top: 0;
+  }
+  .sm\:bottom-0 {
+    bottom: 0;
+  }
+  .sm\:left-0 {
+    left: 0;
+  }
+  .sm\:right-0 {
+    right: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:static {
+    position: static;
+  }
+  .md\:relative {
+    position: relative;
+  }
+  .md\:absolute {
+    position: absolute;
+  }
+  .md\:fixed {
+    position: fixed;
+  }
+  .md\:sticky {
+    position: sticky;
+  }
+
+  .md\:top-0 {
+    top: 0;
+  }
+  .md\:bottom-0 {
+    bottom: 0;
+  }
+  .md\:left-0 {
+    left: 0;
+  }
+  .md\:right-0 {
+    right: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:static {
+    position: static;
+  }
+  .lg\:relative {
+    position: relative;
+  }
+  .lg\:absolute {
+    position: absolute;
+  }
+  .lg\:fixed {
+    position: fixed;
+  }
+  .lg\:sticky {
+    position: sticky;
+  }
+
+  .lg\:top-0 {
+    top: 0;
+  }
+  .lg\:bottom-0 {
+    bottom: 0;
+  }
+  .lg\:left-0 {
+    left: 0;
+  }
+  .lg\:right-0 {
+    right: 0;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:static {
+    position: static;
+  }
+  .xl\:relative {
+    position: relative;
+  }
+  .xl\:absolute {
+    position: absolute;
+  }
+  .xl\:fixed {
+    position: fixed;
+  }
+  .xl\:sticky {
+    position: sticky;
+  }
+
+  .xl\:top-0 {
+    top: 0;
+  }
+  .xl\:bottom-0 {
+    bottom: 0;
+  }
+  .xl\:left-0 {
+    left: 0;
+  }
+  .xl\:right-0 {
+    right: 0;
+  }
+}
+
+@media (min-width: 1536px) {
+  .2xl\:static {
+    position: static;
+  }
+  .2xl\:relative {
+    position: relative;
+  }
+  .2xl\:absolute {
+    position: absolute;
+  }
+  .2xl\:fixed {
+    position: fixed;
+  }
+  .2xl\:sticky {
+    position: sticky;
+  }
+
+  .2xl\:top-0 {
+    top: 0;
+  }
+  .2xl\:bottom-0 {
+    bottom: 0;
+  }
+  .2xl\:left-0 {
+    left: 0;
+  }
+  .2xl\:right-0 {
+    right: 0;
+  }
+}

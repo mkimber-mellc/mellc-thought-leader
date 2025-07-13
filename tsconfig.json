@@ -19,7 +19,9 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@/mellc-ui-kit": ["./mellc-ui-kit/index.ts"],
+      "@/mellc-ui-kit/*": ["./mellc-ui-kit/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],

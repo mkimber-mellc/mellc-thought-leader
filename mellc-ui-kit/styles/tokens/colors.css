@@ -1,0 +1,108 @@
+:root {
+  /* ⚫️ Black */
+  --black: #000000;
+
+  /* ⚪️ White */
+  --white: #ffffff;
+
+  /* 🫥 Transparent */
+  --transparent: transparent;
+
+  /* ⚫️ Gray */
+  --gray-100: #f3f4f6;
+  --gray-300: #d1d5db;
+  --gray-500: #6b7280;
+  --gray-700: #374151;
+  --gray-900: #111827;
+
+  /* 🔴 Red */
+  --red-100: #fee2e2;
+  --red-300: #fca5a5;
+  --red-500: #ef4444;
+  --red-700: #b91c1c;
+  --red-900: #7f1d1d;
+
+  /* 🟠 Orange */
+  --orange-100: #ffedd5;
+  --orange-300: #fdba74;
+  --orange-500: #f97316;
+  --orange-700: #c2410c;
+  --orange-900: #7c2d12;
+
+  /* 🟡 Yellow */
+  --yellow-100: #fef9c3;
+  --yellow-300: #fde047;
+  --yellow-500: #facc15;
+  --yellow-700: #ca8a04;
+  --yellow-900: #78350f;
+
+  /* 🟢 Green */
+  --green-100: #d1fae5;
+  --green-300: #6ee7b7;
+  --green-500: #10b981;
+  --green-700: #047857;
+  --green-900: #064e3b;
+
+  /* 🟩 Teal */
+  --teal-100: #ccfbf1;
+  --teal-300: #5eead4;
+  --teal-500: #14b8a6;
+  --teal-700: #0f766e;
+  --teal-900: #134e4a;
+
+  /* 🔵 Blue */
+  --blue-100: #dbeafe;
+  --blue-300: #93c5fd;
+  --blue-500: #3b82f6;
+  --blue-700: #1d4ed8;
+  --blue-900: #1e3a8a;
+
+  /* 🟦 Indigo */
+  --indigo-100: #e0e7ff;
+  --indigo-300: #a5b4fc;
+  --indigo-500: #6366f1;
+  --indigo-700: #4338ca;
+  --indigo-900: #312e81;
+
+  /* 🟪 Purple */
+  --purple-100: #f3e8ff;
+  --purple-300: #d8b4fe;
+  --purple-500: #a855f7;
+  --purple-700: #7e22ce;
+  --purple-900: #4c1d95;
+
+  /* 🌸 Rose */
+  --rose-100: #ffe4e6;
+  --rose-300: #fda4af;
+  --rose-500: #f43f5e;
+  --rose-700: #be123c;
+  --rose-900: #881337;
+
+  /* 🧊 Sky */
+  --sky-100: #e0f2fe;
+  --sky-300: #7dd3fc;
+  --sky-500: #0ea5e9;
+  --sky-700: #0369a1;
+  --sky-900: #0c4a6e;
+
+  /* 🌞 Amber */
+  --amber-100: #fef3c7;
+  --amber-300: #fcd34d;
+  --amber-500: #f59e0b;
+  --amber-700: #b45309;
+  --amber-900: #78350f;
+
+  /* 🪨 Slate */
+  --slate-100: #f1f5f9;
+  --slate-300: #cbd5e1;
+  --slate-500: #64748b;
+  --slate-700: #334155;
+  --slate-900: #0f172a;
+
+  /* 🍃 Emerald */
+  --emerald-100: #d1fae5;
+  --emerald-300: #6ee7b7;
+  --emerald-500: #10b981;
+  --emerald-700: #047857;
+  --emerald-900: #064e3b;
+}

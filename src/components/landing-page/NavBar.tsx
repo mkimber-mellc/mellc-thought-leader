@@ -1,5 +1,5 @@
 import { SignInButton, SignUpButton } from '@clerk/nextjs';
-import { Button, FlexContainer, UILink } from 'mellc-ui-kit';
+import { Button, FlexContainer, UILink } from '@/mellc-ui-kit';
 
 export default function NavBar() {
   return (

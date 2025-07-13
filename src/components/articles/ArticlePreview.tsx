@@ -1,5 +1,5 @@
 // components/ArticlePreview.tsx
-import { BlockContainer, Subtitle, CaptionText, FlexContainer, UILink } from 'mellc-ui-kit';
+import { BlockContainer, Subtitle, CaptionText, FlexContainer, UILink } from '@/mellc-ui-kit';
 import { Article } from '@/lib/articles';
 
 type Props = {

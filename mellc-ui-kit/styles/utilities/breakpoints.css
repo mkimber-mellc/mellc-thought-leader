@@ -1,0 +1,197 @@
+/* Mobile-first base styles go in other tokens files */
+/* This file handles only responsive-specific overrides */
+
+/* ================================
+   Responsive Typography
+   Derived from fontSizeClass tokens
+=================================== */
+
+/* Title */
+.title {
+  font-size: 1.875rem; /* text-3xl */
+}
+@media (min-width: 640px) {
+  .title {
+    font-size: 2.25rem; /* text-4xl */
+  }
+}
+@media (min-width: 768px) {
+  .title {
+    font-size: 3rem; /* text-5xl */
+  }
+}
+@media (min-width: 1024px) {
+  .title {
+    font-size: 3.75rem; /* text-6xl */
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .title {
+    font-size: 3.75rem; /* text-6xl */
+  }
+}
+
+/* Subtitle */
+.subtitle {
+  font-size: 1.25rem; /* text-xl */
+}
+@media (min-width: 640px) {
+  .subtitle {
+    font-size: 1.5rem; /* text-2xl */
+  }
+}
+@media (min-width: 768px) {
+  .subtitle {
+    font-size: 1.875rem; /* text-3xl */
+  }
+}
+@media (min-width: 1024px) {
+  .subtitle {
+    font-size: 2.25rem; /* text-4xl */
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .subtitle {
+    font-size: 2.25rem; /* text-4xl */
+  }
+}
+
+/* Body */
+.body {
+  font-size: 1rem; /* text-base */
+}
+@media (min-width: 640px) {
+  .body {
+    font-size: 1.125rem; /* text-lg */
+  }
+}
+@media (min-width: 768px) {
+  .body {
+    font-size: 1.25rem; /* text-xl */
+  }
+}
+@media (min-width: 1024px) {
+  .body {
+    font-size: 1.5rem; /* text-2xl */
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .body {
+    font-size: 1.5rem; /* text-2xl */
+  }
+}
+
+/* Caption */
+.caption {
+  font-size: 0.75rem; /* text-xs */
+}
+@media (min-width: 640px) {
+  .caption {
+    font-size: 0.875rem; /* text-sm */
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .caption {
+    font-size: 0.875rem; /* text-sm */
+  }
+}
+
+/* Button Text */
+.button-text {
+  font-size: 0.875rem; /* text-sm */
+}
+@media (min-width: 640px) {
+  .button-text {
+    font-size: 1rem; /* text-base */
+  }
+}
+@media (min-width: 768px) {
+  .button-text {
+    font-size: 1.125rem; /* text-lg */
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .button-text {
+    font-size: 1.125rem; /* text-lg */
+  }
+}
+
+/* Overline */
+.overline {
+  font-size: 0.625rem; /* text-[10px] */
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+@media (min-width: 640px) {
+  .overline {
+    font-size: 0.75rem; /* text-xs */
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .overline {
+    font-size: 0.75rem; /* text-xs */
+  }
+}
+
+/* Display */
+.display {
+  font-size: 2.25rem; /* text-4xl */
+}
+@media (min-width: 640px) {
+  .display {
+    font-size: 3rem; /* text-5xl */
+  }
+}
+@media (min-width: 768px) {
+  .display {
+    font-size: 3.75rem; /* text-6xl */
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .display {
+    font-size: 3.75rem; /* text-6xl */
+  }
+}
+
+/* ================================
+   Layout Utilities
+=================================== */
+@media (min-width: var(--break-md)) {
+  .container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+@media (min-width: var(--break-xl)) {
+  .container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .container {
+    max-width: 1536px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* ================================
+   Component-Specific Zones
+=================================== */
+@media (min-width: var(--break-lg)) {
+  .card-horizontal {
+    flex-direction: row;
+    gap: 2rem;
+  }
+}
+@media (min-width: var(--break-2xl)) {
+  .card-horizontal {
+    flex-direction: row;
+    gap: 2rem;
+  }
+}
+
+/* Future tokens and layout logic go here... */

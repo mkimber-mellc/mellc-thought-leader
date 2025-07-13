@@ -1,0 +1,51 @@
+@media (min-width: 640px) {
+  /* Transition Duration Utility Classes */
+  .sm\:transition-fast {
+    transition-duration: var(--duration-fast);
+  }
+  .sm\:transition-normal {
+    transition-duration: var(--duration-normal);
+  }
+  .sm\:transition-slow {
+    transition-duration: var(--duration-slow);
+  }
+}
+
+@media (min-width: 768px) {
+  /* Transition Duration Utility Classes */
+  .md\:transition-fast {
+    transition-duration: var(--duration-fast);
+  }
+  .md\:transition-normal {
+    transition-duration: var(--duration-normal);
+  }
+  .md\:transition-slow {
+    transition-duration: var(--duration-slow);
+  }
+}
+
+@media (min-width: 1024px) {
+  /* Transition Duration Utility Classes */
+  .lg\:transition-fast {
+    transition-duration: var(--duration-fast);
+  }
+  .lg\:transition-normal {
+    transition-duration: var(--duration-normal);
+  }
+  .lg\:transition-slow {
+    transition-duration: var(--duration-slow);
+  }
+}
+
+@media (min-width: 1280px) {
+  /* Transition Duration Utility Classes */
+  .xl\:transition-fast {
+    transition-duration: var(--duration-fast);
+  }
+  .xl\:transition-normal {
+    transition-duration: var(--duration-normal);
+  }
+  .xl\:transition-slow {
+    transition-duration: var(--duration-slow);
+  }
+}

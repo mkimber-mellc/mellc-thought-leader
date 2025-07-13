@@ -1,0 +1,19 @@
+/* Opacity Utility Classes */
+.opacity-0 {
+  opacity: var(--opacity-0);
+}
+.opacity-25 {
+  opacity: var(--opacity-25);
+}
+.opacity-50 {
+  opacity: var(--opacity-50);
+}
+.opacity-75 {
+  opacity: var(--opacity-75);
+}
+.opacity-80 {
+  opacity: var(--opacity-80);
+}
+.opacity-100 {
+  opacity: var(--opacity-100);
+}

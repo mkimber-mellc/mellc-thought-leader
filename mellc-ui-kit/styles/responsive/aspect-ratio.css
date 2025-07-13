@@ -1,0 +1,59 @@
+@media (min-width: 640px) {
+  .sm\:aspect-auto {
+    aspect-ratio: var(--aspect-auto);
+  }
+  .sm\:aspect-square {
+    aspect-ratio: var(--aspect-square);
+  }
+  .sm\:aspect-video {
+    aspect-ratio: var(--aspect-video);
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:aspect-auto {
+    aspect-ratio: var(--aspect-auto);
+  }
+  .md\:aspect-square {
+    aspect-ratio: var(--aspect-square);
+  }
+  .md\:aspect-video {
+    aspect-ratio: var(--aspect-video);
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:aspect-auto {
+    aspect-ratio: var(--aspect-auto);
+  }
+  .lg\:aspect-square {
+    aspect-ratio: var(--aspect-square);
+  }
+  .lg\:aspect-video {
+    aspect-ratio: var(--aspect-video);
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:aspect-auto {
+    aspect-ratio: var(--aspect-auto);
+  }
+  .xl\:aspect-square {
+    aspect-ratio: var(--aspect-square);
+  }
+  .xl\:aspect-video {
+    aspect-ratio: var(--aspect-video);
+  }
+}
+
+@media (min-width: 1536px) {
+  .2xl\:aspect-auto {
+    aspect-ratio: var(--aspect-auto);
+  }
+  .2xl\:aspect-square {
+    aspect-ratio: var(--aspect-square);
+  }
+  .2xl\:aspect-video {
+    aspect-ratio: var(--aspect-video);
+  }
+}

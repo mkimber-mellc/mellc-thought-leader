@@ -1,0 +1,204 @@
+@media (min-width: 640px) {
+  .sm\:rounded-none {
+    border-radius: var(--radius-none);
+  }
+  .sm\:rounded-xs {
+    border-radius: var(--radius-xs);
+  }
+  .sm\:rounded-sm {
+    border-radius: var(--radius-sm);
+  }
+  .sm\:rounded-md {
+    border-radius: var(--radius-md);
+  }
+  .sm\:rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+  .sm\:rounded-xl {
+    border-radius: var(--radius-xl);
+  }
+  .sm\:rounded-2xl {
+    border-radius: var(--radius-2xl);
+  }
+  .sm\:rounded-full {
+    border-radius: var(--radius-full);
+  }
+
+  /* Optional: Per-corner variants */
+  .sm\:rounded-tl-md {
+    border-top-left-radius: var(--radius-md);
+  }
+  .sm\:rounded-tr-md {
+    border-top-right-radius: var(--radius-md);
+  }
+  .sm\:rounded-bl-md {
+    border-bottom-left-radius: var(--radius-md);
+  }
+  .sm\:rounded-br-md {
+    border-bottom-right-radius: var(--radius-md);
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:rounded-none {
+    border-radius: var(--radius-none);
+  }
+  .md\:rounded-xs {
+    border-radius: var(--radius-xs);
+  }
+  .md\:rounded-sm {
+    border-radius: var(--radius-sm);
+  }
+  .md\:rounded-md {
+    border-radius: var(--radius-md);
+  }
+  .md\:rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+  .md\:rounded-xl {
+    border-radius: var(--radius-xl);
+  }
+  .md\:rounded-2xl {
+    border-radius: var(--radius-2xl);
+  }
+  .md\:rounded-full {
+    border-radius: var(--radius-full);
+  }
+
+  /* Optional: Per-corner variants */
+  .md\:rounded-tl-md {
+    border-top-left-radius: var(--radius-md);
+  }
+  .md\:rounded-tr-md {
+    border-top-right-radius: var(--radius-md);
+  }
+  .md\:rounded-bl-md {
+    border-bottom-left-radius: var(--radius-md);
+  }
+  .md\:rounded-br-md {
+    border-bottom-right-radius: var(--radius-md);
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:rounded-none {
+    border-radius: var(--radius-none);
+  }
+  .lg\:rounded-xs {
+    border-radius: var(--radius-xs);
+  }
+  .lg\:rounded-sm {
+    border-radius: var(--radius-sm);
+  }
+  .lg\:rounded-md {
+    border-radius: var(--radius-md);
+  }
+  .lg\:rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+  .lg\:rounded-xl {
+    border-radius: var(--radius-xl);
+  }
+  .lg\:rounded-2xl {
+    border-radius: var(--radius-2xl);
+  }
+  .lg\:rounded-full {
+    border-radius: var(--radius-full);
+  }
+
+  /* Optional: Per-corner variants */
+  .lg\:rounded-tl-md {
+    border-top-left-radius: var(--radius-md);
+  }
+  .lg\:rounded-tr-md {
+    border-top-right-radius: var(--radius-md);
+  }
+  .lg\:rounded-bl-md {
+    border-bottom-left-radius: var(--radius-md);
+  }
+  .lg\:rounded-br-md {
+    border-bottom-right-radius: var(--radius-md);
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:rounded-none {
+    border-radius: var(--radius-none);
+  }
+  .xl\:rounded-xs {
+    border-radius: var(--radius-xs);
+  }
+  .xl\:rounded-sm {
+    border-radius: var(--radius-sm);
+  }
+  .xl\:rounded-md {
+    border-radius: var(--radius-md);
+  }
+  .xl\:rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+  .xl\:rounded-xl {
+    border-radius: var(--radius-xl);
+  }
+  .xl\:rounded-2xl {
+    border-radius: var(--radius-2xl);
+  }
+  .xl\:rounded-full {
+    border-radius: var(--radius-full);
+  }
+
+  /* Optional: Per-corner variants */
+  .xl\:rounded-tl-md {
+    border-top-left-radius: var(--radius-md);
+  }
+  .xl\:rounded-tr-md {
+    border-top-right-radius: var(--radius-md);
+  }
+  .xl\:rounded-bl-md {
+    border-bottom-left-radius: var(--radius-md);
+  }
+  .xl\:rounded-br-md {
+    border-bottom-right-radius: var(--radius-md);
+  }
+}
+
+@media (min-width: 1536px) {
+  .2xl\:rounded-none {
+    border-radius: var(--radius-none);
+  }
+  .2xl\:rounded-xs {
+    border-radius: var(--radius-xs);
+  }
+  .2xl\:rounded-sm {
+    border-radius: var(--radius-sm);
+  }
+  .2xl\:rounded-md {
+    border-radius: var(--radius-md);
+  }
+  .2xl\:rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+  .2xl\:rounded-xl {
+    border-radius: var(--radius-xl);
+  }
+  .2xl\:rounded-2xl {
+    border-radius: var(--radius-2xl);
+  }
+  .2xl\:rounded-full {
+    border-radius: var(--radius-full);
+  }
+
+  /* Optional: Per-corner variants */
+  .2xl\:rounded-tl-md {
+    border-top-left-radius: var(--radius-md);
+  }
+  .2xl\:rounded-tr-md {
+    border-top-right-radius: var(--radius-md);
+  }
+  .2xl\:rounded-bl-md {
+    border-bottom-left-radius: var(--radius-md);
+  }
+  .2xl\:rounded-br-md {
+    border-bottom-right-radius: var(--radius-md);
+  }
+}

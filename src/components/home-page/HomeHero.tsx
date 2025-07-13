@@ -1,4 +1,4 @@
-import { BlockContainer, CaptionText, FlexContainer, Subtitle } from 'mellc-ui-kit';
+import { BlockContainer, CaptionText, FlexContainer, Subtitle } from '@/mellc-ui-kit';
 import Image from 'next/image';
 
 export default function HomeHero() {

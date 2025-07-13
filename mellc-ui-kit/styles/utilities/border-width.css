@@ -1,0 +1,68 @@
+/* MELLC UI – Border Width Utilities */
+
+.border-thin {
+  border-width: var(--border-thin); /* 1px */
+  border-style: solid;
+}
+
+.border-base {
+  border-width: var(--border-base); /* 2px */
+  border-style: solid;
+}
+
+.border-thick {
+  border-width: var(--border-thick); /* 4px */
+  border-style: solid;
+}
+
+/* Optional: individual sides */
+.border-t-thin {
+  border-top-width: var(--border-thin);
+  border-style: solid;
+}
+.border-r-thin {
+  border-right-width: var(--border-thin);
+  border-style: solid;
+}
+.border-b-thin {
+  border-bottom-width: var(--border-thin);
+  border-style: solid;
+}
+.border-l-thin {
+  border-left-width: var(--border-thin);
+  border-style: solid;
+}
+
+.border-t-base {
+  border-top-width: var(--border-base);
+  border-style: solid;
+}
+.border-r-base {
+  border-right-width: var(--border-base);
+  border-style: solid;
+}
+.border-b-base {
+  border-bottom-width: var(--border-base);
+  border-style: solid;
+}
+.border-l-base {
+  border-left-width: var(--border-base);
+  border-style: solid;
+}
+
+.border-t-thick {
+  border-top-width: var(--border-thick);
+  border-style: solid;
+}
+.border-r-thick {
+  border-right-width: var(--border-thick);
+  border-style: solid;
+}
+.border-b-thick {
+  border-bottom-width: var(--border-thick);
+  border-style: solid;
+}
+.border-l-thick {
+  border-left-width: var(--border-thick);
+  border-style: solid;
+}

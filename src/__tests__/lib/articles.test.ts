@@ -8,9 +8,9 @@ describe('Articles Helper Functions', () => {
   });
 
   it('should return a valid article by slug', () => {
-    const article = getArticleBySlug('welcome-to-july');
+    const article = getArticleBySlug('shadow-ops');
     expect(article).toBeDefined();
-    expect(article?.slug).toBe('welcome-to-july');
+    expect(article?.slug).toBe('shadow-ops');
   });
 
   it('should return undefined for non-existent slug', () => {

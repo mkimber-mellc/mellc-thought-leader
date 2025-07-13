@@ -1,5 +1,5 @@
 // components/FeaturedArticle.tsx
-import { BlockContainer, Subtitle, CaptionText, FlexContainer, UILink } from 'mellc-ui-kit';
+import { BlockContainer, Subtitle, CaptionText, FlexContainer, UILink } from '@/mellc-ui-kit';
 import Image from 'next/image';
 import { Article } from '@/lib/articles';
 

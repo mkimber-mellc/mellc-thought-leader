@@ -1,6 +1,6 @@
 'use client';
 
-import { Subtitle, BodyText, Card, FlexContainer, CaptionText } from 'mellc-ui-kit';
+import { Subtitle, BodyText, Card, FlexContainer, CaptionText } from '@/mellc-ui-kit';
 import { getAllArticles } from '@/lib/articles';
 import type { Article } from '@/lib/articles';
 import { useEffect, useState } from 'react';
