@@ -1,0 +1,260 @@
+[
+  {
+    "id": "001",
+    "title": "Shadow Ops Are Still Breaches",
+    "slug": "shadow-ops",
+    "authorId": "jaxon",
+    "category": "cybersecurity",
+    "excerpt": "Security isn’t just about tools. It’s about the ops you hide from the team. In this piece, Jaxon exposes how undocumented rituals and unspoken shortcuts are the real breach points.",
+    "image": "/shadow-ops.png",
+    "date": "2025-07-04",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Your Quietest Habits Are the Loudest Threats"
+      },
+      {
+        "type": "paragraph",
+        "text": "Not all breaches are external. Some come from inside the rhythm of your team — from silent approvals, untracked exceptions, or the engineer who still pushes directly to main after hours."
+      },
+      {
+        "type": "quote",
+        "text": "Shadow ops aren’t innovation — they’re invisible vulnerabilities."
+      },
+      {
+        "type": "paragraph",
+        "text": "Every time you bypass a process to move faster, you widen the attack surface. Slack DMs instead of PR comments. Local secrets instead of shared vaults. Speed over clarity."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Stop treating urgency like an excuse.",
+          "Review processes *as code* — not just policy.",
+          "Normalize logging team decisions — even informal ones."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The Lie of 'Just This Once'"
+      },
+      {
+        "type": "paragraph",
+        "text": "Every security culture breaks at the point of rationalization. When the ops team says, 'just this once,' the clock starts ticking. And when the breach happens, you won’t trace it to the code — you’ll trace it to the conversation you never logged."
+      },
+      {
+        "type": "quote",
+        "text": "Security without story is theater. And shadow ops love an audience that doesn't ask questions."
+      },
+      {
+        "type": "paragraph",
+        "text": "Document your chaos. Design rituals that catch the drift. Because trust is built on what’s seen — not what’s assumed."
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Branding Is a Rehearsal",
+    "slug": "branding-rehearsal",
+    "authorId": "nova",
+    "category": "brand-culture",
+    "excerpt": "Branding isn’t your logo. It’s your rhythm. In this piece, Nova breaks down how brand power is built behind the scenes — in rehearsals, rituals, and the way your team shows up when no one’s watching.",
+    "image": "/images/branding-rhythm.jpg",
+    "date": "2025-07-04",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Your Brand Is Built Before Launch"
+      },
+      {
+        "type": "paragraph",
+        "text": "People think branding starts with the reveal. But real branding is built in the dark — in Notion drafts, Zoom energy, Slack etiquette, and how leaders correct without shame."
+      },
+      {
+        "type": "quote",
+        "text": "A brand is what your team practices when no one’s watching."
+      },
+      {
+        "type": "paragraph",
+        "text": "At MELLC, we don’t build brands. We rehearse them. Every pull request, every internal doc, every async update — it’s all branding. Because culture is a rhythm. And branding is how that rhythm gets seen."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Your brand is how you say no internally.",
+          "Your brand is who gets credit in a team win.",
+          "Your brand is what you fix when no one complains."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The Real Rebrand Is Rhythm Repair"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you’re rebranding and your team isn’t changing how they show up — you’re just repainting the surface. Rhythm repair is the only rebrand that lasts."
+      },
+      {
+        "type": "quote",
+        "text": "You don’t need a new voice. You need alignment behind the mic."
+      },
+      {
+        "type": "paragraph",
+        "text": "Great brands aren’t loud. They’re in sync. They rehearse until the message hits — even when no one claps."
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "title": "The ROI Lens",
+    "slug": "roi-lens",
+    "authorId": "miles",
+    "category": "ops-strategy",
+    "excerpt": "Miles shows how to rethink your tools and team through a return-on-investment lens — no spreadsheet required.",
+    "image": "/images/roi-lens.jpg",
+    "date": "2025-07-04",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Everything Has a Cost — Even Simplicity"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most teams adopt tools based on popularity, not performance. But every app, every habit, and every decision costs something. Simplicity feels free — until you measure the missed value."
+      },
+      {
+        "type": "quote",
+        "text": "ROI isn’t about spending less — it’s about extracting more from what you already use."
+      },
+      {
+        "type": "paragraph",
+        "text": "The highest-performing teams don’t obsess over new platforms. They optimize how they use the ones they already have. Are you really using your project board — or just dragging cards to feel productive?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Audit your tools monthly for actual usage.",
+          "Measure time-to-value, not just cost.",
+          "Reward efficiency, not complexity."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ROI as a Team Culture Filter"
+      },
+      {
+        "type": "paragraph",
+        "text": "The ROI lens isn’t just for CFOs. It’s for ops leaders, designers, engineers — anyone making systems decisions. Because when everyone thinks in value, everything starts to align."
+      },
+      {
+        "type": "quote",
+        "text": "When your team sees ROI as rhythm, you stop wasting motion — and start building momentum."
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "title": "The Ops Clarity Stack",
+    "slug": "ops-clarity-stack",
+    "authorId": "sienna",
+    "category": "ops-leadership",
+    "excerpt": "Sienna breaks down the exact systems we used to scale MELLC Labs from internal chaos to operational precision.",
+    "image": "/images/ops-clarity.jpg",
+    "date": "2025-07-04",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Clarity Isn’t a Vibe — It’s a Stack"
+      },
+      {
+        "type": "paragraph",
+        "text": "When I stepped into ops at MELLC, everything was fast — but nothing was clean. People were talented. Tools were powerful. But clarity? It was missing. And without clarity, chaos wins."
+      },
+      {
+        "type": "quote",
+        "text": "Clarity is a leadership discipline, not a personality trait."
+      },
+      {
+        "type": "paragraph",
+        "text": "The clarity stack isn’t software — it’s structure. And we built it in layers: daily syncs, single sources of truth, and shared vocabulary for every workflow."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Document decisions, not just deadlines.",
+          "Build dashboards for *people*, not just performance.",
+          "Repeat rhythms until they become culture."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Scaling Without Friction"
+      },
+      {
+        "type": "paragraph",
+        "text": "You don’t scale chaos — you compound it. So we built friction into our flow: pause points, clarity checks, and shared standups that actually stand for something. That’s the stack. It works because it’s felt."
+      },
+      {
+        "type": "quote",
+        "text": "Ops isn't about control. It's about making clarity feel like care."
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Structure Before Scale",
+    "slug": "structure-before-scale",
+    "authorId": "graham",
+    "category": "founder-advice",
+    "excerpt": "Graham lays it bare — if your business doesn’t have structure, it doesn’t deserve scale. Founders listen up.",
+    "image": "/structure-before-scale.jpg",
+    "date": "2025-07-04",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Scale Doesn’t Fix Chaos — It Exposes It"
+      },
+      {
+        "type": "paragraph",
+        "text": "Every founder wants growth. More users, more revenue, more team. But if you’re not built for scale, all growth does is expose your gaps. I’ve seen it a hundred times: no org chart, no process, no clarity — just burn out dressed as hustle."
+      },
+      {
+        "type": "quote",
+        "text": "Don’t blame your people for breaking things — blame the lack of structure that left them guessing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Before you chase scale, build systems that can carry weight. Define how decisions get made. Design how info flows. Document the things you don’t want to repeat — because you *will* repeat them."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Set structure early, not after you're overwhelmed.",
+          "Give your team guardrails — not guesswork.",
+          "Build for clarity, then optimize for speed."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Respect the Boring Stuff"
+      },
+      {
+        "type": "paragraph",
+        "text": "Founders want to change the world. But before you go global, go internal. The boring stuff — roles, runbooks, routines — that’s where real power hides. You don’t scale creativity without structure. You bury it."
+      },
+      {
+        "type": "quote",
+        "text": "If structure feels limiting, you haven’t seen what chaos costs yet."
+      }
+    ]
+  }
+]

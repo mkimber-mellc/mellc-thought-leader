@@ -1,0 +1,52 @@
+[
+  {
+    "id": "marcus",
+    "name": "Marcus Kimber",
+    "role": "CEO – SaaS Stack Strategist",
+    "bio": "Visionary and creative leader who turns ideas into operational clarity.",
+    "image": "/images/marcus.jpg"
+  },
+  {
+    "id": "graham",
+    "name": "Graham",
+    "role": "Advisor",
+    "bio": "Grounded and sharp, with 20 years of CEO-level wisdom.",
+    "image": "/images/graham.jpg"
+  },
+  {
+    "id": "miles",
+    "name": "Miles",
+    "role": "CFO",
+    "bio": "Analytical and precise — always guided by the numbers.",
+    "image": "/images/miles.jpg"
+  },
+  {
+    "id": "sienna",
+    "name": "Sienna",
+    "role": "COO",
+    "bio": "Empathetic strategist keeping the team aligned and moving forward.",
+    "image": "/images/sienna.jpg"
+  },
+  {
+    "id": "jaxon",
+    "name": "Jaxon",
+    "role": "CTO",
+    "bio": "Builder of systems and master of custom architecture.",
+    "image": "/images/jaxon.jpg"
+  },
+  {
+    "id": "nova",
+    "name": "Nova",
+    "role": "CMO",
+    "bio": "Bold, brand-savvy, and always culture-forward.",
+    "image": "/images/nova.jpg"
+  },
+  {
+    "id": "alisha",
+    "name": "Alisha Taylor",
+    "role": "Assistant to the Executives",
+    "bio": "Polished, proactive, and the glue of the MELLC operation.",
+    "image": "/images/alisha.jpg"
+  }
+]
+
