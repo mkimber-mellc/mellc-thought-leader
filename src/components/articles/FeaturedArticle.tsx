@@ -1,5 +1,4 @@
 import { BlockContainer, Subtitle, CaptionText, FlexContainer, UILink } from '@/mellc-ui-kit';
-import Image from 'next/image';
 import { Article } from '@/lib/articles';
 
 type Props = {
