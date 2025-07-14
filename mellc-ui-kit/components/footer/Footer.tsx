@@ -7,7 +7,7 @@ import UIImage from '../images/UIImage';
 const Footer: React.FC<BaseFooterProps> = ({
   bg,
   color,
-  padding = 'xl',
+  padding = 'md',
   companyName = '',
   logo = '',
   footerMessage = 'Crafted with care by the MELLC team — powered by Next.js and our custom UI system.',
@@ -25,15 +25,17 @@ const Footer: React.FC<BaseFooterProps> = ({
         padding={padding}
         {...rest}
       >
-        <FlexContainer gap={2}>
-          <CaptionText color={color}>
+        <FlexContainer gap={2} alignItems={'center'} justify={'center'}>
+          <CaptionText color={color} size={'xs'}>
             &copy; {new Date().getFullYear()} {companyName}
           </CaptionText>
           {logo && <UIImage src={logo} alt="Logo" width={50} height={50} className="h-8 w-auto" />}
-          <CaptionText color={color}>All rights reserved.</CaptionText>
+          <CaptionText color={color} size={'xs'}>
+            All rights reserved.
+          </CaptionText>
           {''}
         </FlexContainer>
-        <CaptionText align="right" color={color} weight={fontWeight}>
+        <CaptionText align="center" color={color} weight={fontWeight} size={'xs'}>
           {footerMessage}
         </CaptionText>
       </FlexContainer>

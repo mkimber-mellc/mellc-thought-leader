@@ -1,4 +1,3 @@
-// components/FeaturedArticle.tsx
 import { BlockContainer, Subtitle, CaptionText, FlexContainer, UILink } from '@/mellc-ui-kit';
 import Image from 'next/image';
 import { Article } from '@/lib/articles';
@@ -15,15 +14,15 @@ export default function FeaturedArticle({ article }: Props) {
       className="bgwhite shadow-primary bordersecondary border max-w-5xl mx-auto"
     >
       <FlexContainer flexDirection="standard" gap={3}>
-        <BlockContainer className="w-full">
-          <Image
-            src={article.image || '/globe.svg'}
-            alt={article.title}
-            width={250}
-            height={300}
-            className={'rounded'}
-          />
-        </BlockContainer>
+        {/*<BlockContainer className="w-full">*/}
+        {/*  <Image*/}
+        {/*    src={article.image}*/}
+        {/*    alt={article.title}*/}
+        {/*    width={250}*/}
+        {/*    height={300}*/}
+        {/*    className={'rounded'}*/}
+        {/*  />*/}
+        {/*</BlockContainer>*/}
 
         <FlexContainer flexDirection="col" justify={'center'} gap={2} className="w-full sm:w-1/2">
           <Subtitle color="textsecondary" weight="bold">
